@@ -12,6 +12,6 @@ package pruebas.actividad4;
 public class Actividad4 {
 
     public static void main(String[] args) {
-        System.out.println("Cambio realizadp");
+        System.out.println("Sin cambio");
     }
 }
